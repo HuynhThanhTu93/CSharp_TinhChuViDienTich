@@ -1,10 +1,10 @@
 namespace CSharp_TinhChuViDienTich
 {
-    public partial class Form1 : Form
+    public partial class HinhChuNhat : Form
     {
         double a;
         double b;
-        public Form1()
+        public HinhChuNhat()
         {
             InitializeComponent();
         }

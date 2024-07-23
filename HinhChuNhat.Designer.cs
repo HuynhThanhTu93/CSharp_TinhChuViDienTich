@@ -1,6 +1,6 @@
 ﻿namespace CSharp_TinhChuViDienTich
 {
-    partial class Form1
+    partial class HinhChuNhat
     {
         /// <summary>
         ///  Required designer variable.
